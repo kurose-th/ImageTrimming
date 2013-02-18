@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTrimminger", "ImageTrimminger\ImageTrimminger.csproj", "{EC00F73D-9666-42C3-AF20-03D9F191CAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC00F73D-9666-42C3-AF20-03D9F191CAFC}.Debug|x86.ActiveCfg = Debug|x86
+		{EC00F73D-9666-42C3-AF20-03D9F191CAFC}.Debug|x86.Build.0 = Debug|x86
+		{EC00F73D-9666-42C3-AF20-03D9F191CAFC}.Release|x86.ActiveCfg = Release|x86
+		{EC00F73D-9666-42C3-AF20-03D9F191CAFC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
